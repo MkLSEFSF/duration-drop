@@ -1,6 +1,6 @@
 # Duration Drop: Design
 
-Status: approved section by section in chat, pending final spec review.
+Status: approved.
 
 ## Summary
 
